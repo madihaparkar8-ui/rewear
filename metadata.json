@@ -1,0 +1,6 @@
+{
+  "name": "ReWear — Sustainable Fashion Clothing Swap",
+  "description": "Discover pre-loved fashion, exchange pieces you no longer wear, and find something new without buying new in an independent circular fashion marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
